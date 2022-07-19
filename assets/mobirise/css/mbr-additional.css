@@ -636,11 +636,6 @@ blockquote {
   background-repeat: no-repeat;
   background-position: 0% 74%;
 }
-.cid-rHd0k7B4Os {
-  position: sticky;
-  top: 0;
-  z-index: 11;
-}
 .cid-rHd0k7B4Os .navbar-dropdown {
   position: relative!important;
   top: 0;
@@ -2262,11 +2257,6 @@ blockquote {
 .cid-tbZJip0931 .media-container-row .mbr-text {
   color: #ffffff;
 }
-.cid-tbZITCsAuR {
-  position: sticky;
-  top: 0;
-  z-index: 11;
-}
 .cid-tbZITCsAuR .navbar-dropdown {
   position: relative!important;
   top: 0;
@@ -3047,11 +3037,6 @@ blockquote {
 .cid-tc23I2sBX6 .media-container-row .mbr-text {
   color: #ffffff;
 }
-.cid-tbZIFl7Vd8 {
-  position: sticky;
-  top: 0;
-  z-index: 11;
-}
 .cid-tbZIFl7Vd8 .navbar-dropdown {
   position: relative!important;
   top: 0;
@@ -3828,11 +3813,6 @@ blockquote {
 .cid-tc23Upa92E .media-container-row .mbr-text {
   color: #ffffff;
 }
-.cid-tc25ZnCprC {
-  position: sticky;
-  top: 0;
-  z-index: 11;
-}
 .cid-tc25ZnCprC .navbar-dropdown {
   position: relative!important;
   top: 0;
@@ -4458,13 +4438,13 @@ blockquote {
   margin-right: 0.8rem;
 }
 .cid-tc1XNOeTUb {
-  padding-top: 45px;
+  padding-top: 135px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-tc1XNOeTUb {
-    padding-top: 15px;
+    padding-top: 45px;
     padding-bottom: 15px;
   }
 }
@@ -4513,11 +4493,6 @@ blockquote {
 }
 .cid-tc25X6jLkp .media-container-row .mbr-text {
   color: #ffffff;
-}
-.cid-tc263KIdQI {
-  position: sticky;
-  top: 0;
-  z-index: 11;
 }
 .cid-tc263KIdQI .navbar-dropdown {
   position: relative!important;
@@ -5144,13 +5119,13 @@ blockquote {
   margin-right: 0.8rem;
 }
 .cid-tc1YAxsQHP {
-  padding-top: 45px;
+  padding-top: 135px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-tc1YAxsQHP {
-    padding-top: 15px;
+    padding-top: 45px;
     padding-bottom: 15px;
   }
 }
@@ -5199,11 +5174,6 @@ blockquote {
 }
 .cid-tc262APnmG .media-container-row .mbr-text {
   color: #ffffff;
-}
-.cid-tc267KXgl3 {
-  position: sticky;
-  top: 0;
-  z-index: 11;
 }
 .cid-tc267KXgl3 .navbar-dropdown {
   position: relative!important;
@@ -5830,13 +5800,13 @@ blockquote {
   margin-right: 0.8rem;
 }
 .cid-tc1YT684nx {
-  padding-top: 45px;
+  padding-top: 135px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-tc1YT684nx {
-    padding-top: 15px;
+    padding-top: 45px;
     padding-bottom: 15px;
   }
 }
@@ -5885,11 +5855,6 @@ blockquote {
 }
 .cid-tc266dOecr .media-container-row .mbr-text {
   color: #ffffff;
-}
-.cid-tc26ebZzhT {
-  position: sticky;
-  top: 0;
-  z-index: 11;
 }
 .cid-tc26ebZzhT .navbar-dropdown {
   position: relative!important;
@@ -6516,13 +6481,13 @@ blockquote {
   margin-right: 0.8rem;
 }
 .cid-tc1ZrLdlwd {
-  padding-top: 45px;
+  padding-top: 135px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-tc1ZrLdlwd {
-    padding-top: 15px;
+    padding-top: 45px;
     padding-bottom: 15px;
   }
 }
@@ -6571,11 +6536,6 @@ blockquote {
 }
 .cid-tc26c5mHKR .media-container-row .mbr-text {
   color: #ffffff;
-}
-.cid-tc26ht8FI9 {
-  position: sticky;
-  top: 0;
-  z-index: 11;
 }
 .cid-tc26ht8FI9 .navbar-dropdown {
   position: relative!important;
@@ -7202,13 +7162,13 @@ blockquote {
   margin-right: 0.8rem;
 }
 .cid-tc20ld9Xtm {
-  padding-top: 45px;
+  padding-top: 135px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-tc20ld9Xtm {
-    padding-top: 15px;
+    padding-top: 45px;
     padding-bottom: 15px;
   }
 }
@@ -7257,11 +7217,6 @@ blockquote {
 }
 .cid-tc26grKIy1 .media-container-row .mbr-text {
   color: #ffffff;
-}
-.cid-tc23CS9sm3 {
-  position: sticky;
-  top: 0;
-  z-index: 11;
 }
 .cid-tc23CS9sm3 .navbar-dropdown {
   position: relative!important;
@@ -8481,7 +8436,7 @@ blockquote {
 }
 @media (max-width: 767px) {
   .cid-tc21CyNMSk {
-    padding-top: 15px;
+    padding-top: 30px;
     padding-bottom: 35px;
   }
   .cid-tc21CyNMSk .mbr-shop .image-modal {
@@ -8632,7 +8587,7 @@ blockquote {
 }
 @media (min-width: 767px) {
   .cid-tc21CyNMSk {
-    padding-top: 45px;
+    padding-top: 90px;
     padding-bottom: 105px;
   }
   .cid-tc21CyNMSk .mbr-shop .mbr-gallery-item {
