@@ -1104,7 +1104,6 @@ blockquote {
     padding-left: 2rem;
     padding-top: 2rem;
     padding-bottom: 2rem;
-    box-shadow: 0 5px 15px grey;
     border-radius: 25px;
   }
 }
@@ -1155,7 +1154,6 @@ blockquote {
     padding-left: 2rem;
     padding-top: 2rem;
     padding-bottom: 2rem;
-    box-shadow: 0 5px 15px grey;
     border-radius: 25px;
   }
 }
@@ -1168,11 +1166,6 @@ blockquote {
   border-radius: 25px;
   margin: 10px 0;
   padding: 6px 20px;
-}
-.cid-tbZpBFmuYR .list:hover {
-  box-shadow: 0 5px 15px grey;
-  cursor: pointer;
-  background-color: white;
 }
 .cid-tbZyDK5wuI {
   padding-top: 1rem;
@@ -1220,7 +1213,6 @@ blockquote {
     padding-left: 2rem;
     padding-top: 2rem;
     padding-bottom: 2rem;
-    box-shadow: 0 5px 15px grey;
     border-radius: 25px;
   }
 }
@@ -1274,7 +1266,6 @@ blockquote {
     padding-left: 2rem;
     padding-top: 2rem;
     padding-bottom: 2rem;
-    box-shadow: 0 5px 15px grey;
     border-radius: 25px;
   }
 }
