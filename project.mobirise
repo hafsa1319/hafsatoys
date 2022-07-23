@@ -8250,7 +8250,7 @@
             "price_range_reset": "<a class=\"btn btn-sm btn-secondary\" data-app-btn=\"true\" href=\"\" data-toolbar=\"-mbrBtnMove,-mbrLink,-mbrBtnRemove,-mbrFonts,-mbrFontSize,-mbrBtnAdd,-iconFont\">Alle anzeigen</a>",
             "shop": [
               {
-                "tags": "Awesome",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8272,7 +8272,7 @@
                 "alt": ""
               },
               {
-                "tags": "Wonderful",
+                "tags": "Puzzle",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8294,7 +8294,7 @@
                 "alt": ""
               },
               {
-                "tags": "Creative",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8316,7 +8316,7 @@
                 "alt": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Küchenset",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8338,7 +8338,7 @@
                 "alt": ""
               },
               {
-                "tags": "Responsive",
+                "tags": "Lebensmittel",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8360,7 +8360,7 @@
                 "alt": ""
               },
               {
-                "tags": "Creative",
+                "tags": "Lebensmittel",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8382,7 +8382,7 @@
                 "alt": ""
               },
               {
-                "tags": "Animated",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8404,7 +8404,7 @@
                 "alt": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8426,7 +8426,7 @@
                 "alt": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Küchenset",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8449,7 +8449,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Lego",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8472,7 +8472,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Picknick-Set",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8490,12 +8490,12 @@
                 "customStyleSale": "display-7",
                 "customStyleTags": "display-4",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8518,7 +8518,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8541,7 +8541,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8564,7 +8564,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8587,7 +8587,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Küchenset",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8610,7 +8610,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Küchenset",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8633,7 +8633,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8656,7 +8656,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8679,7 +8679,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8702,7 +8702,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8725,7 +8725,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Küchenset",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8748,12 +8748,12 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Schmuckset",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
                 "itemTitle": "Fädelperlen Bastelset kompakt",
-                "itemDescription": "Produktmerkmale:<br><br><ul><li>Maße\tca. 15 x 13 x 2 cm\r</li><li>Marke\tsmall foot\r</li><li>Material\tHolz, Metall, Stoff\r</li><li>Seite Hauptkatalog\t416\r</li><li>Einstiegsalter\t3+\r</li><li>Artikelinhalt\tca. 190 Perlen, 3 Anhänger, 3 Schnüren.</li></ul>Kreative Schmuckdesigner, aufgepasst! Dieser Bauset, mit umfangreicher Auswahl an Holzperlen in fünf verschiedenen Farben und Formen, bietet den Kindern unterschiedliche Schmuckstücke kreativ zu gestalten. Drei Anhänger mit unterschiedlichen Motiven in verspieltem Design und drei farblich passende Schnüre runden das Perlenset ab.<br><br>Product code: <b>11726</b>",
+                "itemDescription": "Produktmerkmale:<br><br><ul><li>Maße\tca. 15 x 13 x 2 cm\n</li><li>Marke\tsmall foot\n</li><li>Material\tHolz, Metall, Stoff\n</li><li>Seite Hauptkatalog\t416\n</li><li>Einstiegsalter\t3+\n</li><li>Artikelinhalt\tca. 190 Perlen, 3 Anhänger, 3 Schnüren.</li></ul>Kreative Schmuckdesigner, aufgepasst! Dieser Bauset, mit umfangreicher Auswahl an Holzperlen in fünf verschiedenen Farben und Formen, bietet den Kindern unterschiedliche Schmuckstücke kreativ zu gestalten. Drei Anhänger mit unterschiedlichen Motiven in verspieltem Design und drei farblich passende Schnüre runden das Perlenset ab.<br><br>Product code: <b>11726</b>",
                 "itemPriceTitle": "From: ",
                 "itemPrice": "7,99 €",
                 "oldPriceValue": "$138",
@@ -8771,7 +8771,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Schmuckset",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8794,7 +8794,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Küchenset",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8817,7 +8817,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8840,7 +8840,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8863,7 +8863,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8886,7 +8886,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Unterhaltung",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8909,7 +8909,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Unterhaltung",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8932,7 +8932,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8955,7 +8955,7 @@
                 "title": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Modellbau",
                 "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
@@ -8973,12 +8973,14 @@
                 "customStyleSale": "display-7",
                 "customStyleTags": "display-4",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "alt": "",
                 "title": ""
               }
             ]
-          }
+          },
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
