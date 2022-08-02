@@ -20,7 +20,8 @@
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
   <link rel="stylesheet" href="assets/web/assets/gdpr-plugin/gdpr-styles.css">
-    <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/smart-cart/minicart-theme.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -62,6 +63,11 @@ fbq('track', 'PageView');
   
 </head>
 <body>
+
+                                <script id="smartCartPayPal" src="https://www.paypal.com/sdk/js?client-id=AQDHvtR8zNGGYPijiAkr5IVve_S44QunTf9sSFZeIta9bN-_nLEVcTi9CiAIkg-buUJ8o4S_ZIGBBJyB&currency=EUR"></script>
+<script>
+                                var smartCartDefSettings = {"shopcart_top_offset":150,"side_offset":20,"site_width":1150,"shopcart_icon_color":"#ffffff","shopcart_back_color":"#14142b","shopcart_icon_size":50,"sc_count_color":"#14142b","sc_count_back_color":"#fedb01","sc_count_size":16,"buy_now":"Buy now","cart_title":"Your Cart","popup_button":"Add to Cart"};
+                                </script>
   <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=%MerchantId%"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -345,7 +351,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <script src="assets/web/assets/cookies-alert-plugin/cookies-alert-core.js"></script>
   <script src="assets/web/assets/cookies-alert-plugin/cookies-alert-script.js"></script>
   <script src="assets/smoothscroll/smooth-scroll.js"></script>
-      <script src="assets/dropdown/js/nav-dropdown.js"></script>
+  <script src="assets/smart-cart/minicart.js"></script>
+  <script src="assets/smart-cart/minicart-customizer.js"></script>
+  <script src="assets/dropdown/js/nav-dropdown.js"></script>
   <script src="assets/dropdown/js/navbar-dropdown.js"></script>
   <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
   <script src="assets/theme/js/script.js"></script>

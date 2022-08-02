@@ -21,7 +21,8 @@
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
   <link rel="stylesheet" href="assets/web/assets/gdpr-plugin/gdpr-styles.css">
-    <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/smart-cart/minicart-theme.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/formstyler/jquery.formstyler.css">
   <link rel="stylesheet" href="assets/formstyler/jquery.formstyler.theme.css">
   <link rel="stylesheet" href="assets/datepicker/jquery.datetimepicker.min.css">
@@ -66,6 +67,11 @@ fbq('track', 'PageView');
   
 </head>
 <body>
+
+                                <script id="smartCartPayPal" src="https://www.paypal.com/sdk/js?client-id=AQDHvtR8zNGGYPijiAkr5IVve_S44QunTf9sSFZeIta9bN-_nLEVcTi9CiAIkg-buUJ8o4S_ZIGBBJyB&currency=EUR"></script>
+<script>
+                                var smartCartDefSettings = {"shopcart_top_offset":150,"side_offset":20,"site_width":1150,"shopcart_icon_color":"#ffffff","shopcart_back_color":"#14142b","shopcart_icon_size":50,"sc_count_color":"#14142b","sc_count_back_color":"#fedb01","sc_count_size":16,"buy_now":"Buy now","cart_title":"Your Cart","popup_button":"Add to Cart"};
+                                </script>
   <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=%MerchantId%"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -132,12 +138,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
 
             <div class="col-md-12 col-lg-6">
-                <div class="google-map"><iframe frameborder="0" style="border:0" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" allowfullscreen="" loading="lazy" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDk89J4FSunMF33ruMVWJaJht_Ro0kvoXs&amp;q=Liliencronstraße 25, 21629 Neu Wulmstorf Deutschland"></iframe></div>
+                <div class="google-map"><iframe frameborder="0" style="border:0" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" allowfullscreen="" loading="lazy" class="lazyload" data-src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCZI5F_k6S1k46ujh0SNrapM89f7mJxd30&amp;q=Liliencronstraße 25, 21629 Neu Wulmstorf Deutschland"></iframe></div>
             </div>
 
             <div class="col-md-12 col-lg-6 mx-auto mbr-form" data-form-type="formoid">
                 <!--Formbuilder Form-->
-                <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="xlz7eaqsYsuTAKI5B9iGJFlrFWf6Le4BT5u4gDrKNITee5pB4HxFli4d8WaCAU9AlxqSEm3OqTYRtcUs/scZH5T2ofj6vUu5pLk+ND34WUJ8jIXV8VesrQR+t4Vd1k2m.O/L1uQHat51pEzcgalP1Jef+uWEsyXIXp2Ma7xkq3J1VpRCco1cPsWf0IV8bQhvb4DqnoYcxBcZIrwZr2l+pvX+QW2Hhm1gYxlZC5SeFtquZTpJOWjkLnheOGfGyumAZ">
+                <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="0gd+6t65HJKE6qQLC7ZD3Flm/jDBZZnd/hCdTWZ/0vSXIn8xiCzp9Gtn40e8Bc3sm3pIpAooMnGhlP0Lsc57XCKhg9HJPmb54Gb1oW4IsXkw8w9EP8O57DP4AGpcaFNa.IVk516U7f0BKF2N+/6Kl1skvRFCgF82w/BFpL6JeQ/0CY+8u7M38iiKCVvXpScZgLaQ+7ZbJIf4QtUwU7BBfapgJ10HQ41TZf3vOsbjX9zA+NY92vN2V0VzI6MwI0L0b">
                     <div class="form-row">
                         <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Vielen Dank für das Ausfüllen
                             das Formular ausgefüllt haben!</div>
@@ -234,7 +240,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <script src="assets/web/assets/cookies-alert-plugin/cookies-alert-core.js"></script>
   <script src="assets/web/assets/cookies-alert-plugin/cookies-alert-script.js"></script>
   <script src="assets/smoothscroll/smooth-scroll.js"></script>
-      <script src="assets/dropdown/js/nav-dropdown.js"></script>
+  <script src="assets/smart-cart/minicart.js"></script>
+  <script src="assets/smart-cart/minicart-customizer.js"></script>
+  <script src="assets/dropdown/js/nav-dropdown.js"></script>
   <script src="assets/dropdown/js/navbar-dropdown.js"></script>
   <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
   <script src="assets/formstyler/jquery.formstyler.js"></script>
