@@ -38,8 +38,8 @@ body {
 }
 .display-7 {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.4rem;
-  line-height: 0.8rem;
+  font-size: 0.8rem;
+  line-height: 1.4;
 }
 .display-7 > .mbr-iconfont {
   font-size: 1.75rem;
