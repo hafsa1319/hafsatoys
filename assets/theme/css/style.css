@@ -935,7 +935,7 @@ form .btn {
 }
 
 .gdpr-block label span.textGDPR input[name='gdpr'] {
-  top: 7px;
+  top: 0px;
 }
 
 .form-control:focus {
