@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "fadelperlen-bastelset.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "curem4",
       "title": "CureM4",
@@ -1025,6 +1025,8 @@
             ".social-row": {
               "display": "flex",
               "margin-bottom": "1.5rem",
+              "align-items": "center",
+              "justify-content": "center",
               ".soc-item": {
                 "display": "inline-block",
                 "text-align": "center",
@@ -1106,7 +1108,8 @@
               "flex-flow": "column nowrap"
             },
             ".mbr-section-btn": {
-              "margin-top": "auto !important"
+              "margin-top": "auto !important",
+              "text-align": "center"
             },
             ".mbr-section-title": {
               "color": "#000000"

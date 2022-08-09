@@ -1519,6 +1519,8 @@ a {
 .cid-snLXuFgpKp .social-row {
   display: flex;
   margin-bottom: 1.5rem;
+  align-items: center;
+  justify-content: center;
 }
 .cid-snLXuFgpKp .social-row .soc-item {
   display: inline-block;
@@ -1578,6 +1580,7 @@ a {
 }
 .cid-snLXuFgpKp .mbr-section-btn {
   margin-top: auto !important;
+  text-align: center;
 }
 .cid-snLXuFgpKp .mbr-section-title {
   color: #000000;
